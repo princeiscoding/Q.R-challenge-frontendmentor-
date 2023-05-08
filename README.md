@@ -22,7 +22,7 @@ My solution to the front end mentor qr challenge, what i learned and the useful
 ### Links
 
 - Solution URL: [(https://github.com/princeiscoding/frontendmentor-qr-challenge.git)]
-- Live Site URL: [(https://your-live-site-url.com)]
+- Live Site URL: [(https://princeiscoding.github.io/Q.R-challenge-frontendmentor-/)]
 
 ### Built with
 
